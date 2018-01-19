@@ -1,5 +1,5 @@
 # jira-start
-Start a jira issue brom the command line.
+Start a jira issue from the command line.
 
 
 npm run jira-start
